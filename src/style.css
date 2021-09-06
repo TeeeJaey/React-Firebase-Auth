@@ -1,0 +1,29 @@
+
+.bg-dark {
+    background-color:#303841;
+}
+
+.red-button
+{
+    background-color: #f16b52;
+    padding: 5px 10px;
+    color: white;
+    width: 150px;
+    text-decoration: none;
+}
+.red-button:hover {
+    text-decoration: none;
+    color:#303841;
+}
+
+.dashboard-header {
+    height:38px;
+    width: 100%;
+    display: inline-flex;
+    justify-content: space-between;
+}
+
+.auth-form { 
+    max-width: 400px; 
+    margin:auto;
+}
